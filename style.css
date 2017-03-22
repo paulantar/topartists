@@ -1,9 +1,5 @@
 h1 {
-    color: #778899;
-}
-
-p{
-    background-color: pink;
+    color: #EA58FB;
 }
 
 img { 
@@ -19,9 +15,21 @@ iframe {
     margin-bottom: 25px;
 }
     
-p { background-color: #87CEFA
+p { 
+    background-color: #FBF658
 }
 
 body {
-    background-color; #31C3E1
+    background-color: #31C3E1
+    
+}
+
+.artists {
+    color:white;
+    font-family:'Amatica SC', sans-serif;
+    font-size:40px;
+}
+
+body {
+    text-align: center
 }
